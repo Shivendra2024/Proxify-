@@ -62,9 +62,6 @@ The testing process follows **Agile Methodology** to ensure continuous and itera
 - Enhance security measures for transaction processes.
 - Implement automated testing for regression scenarios.
 
-## Conclusion
-The **manual testing** of Proxify revealed critical, medium, and low-priority defects. The Agile testing approach allowed for **continuous feedback and improvements**. The next step is to **validate bug fixes and perform regression testing** to ensure stability before release.
-
 ---
 ✅ **Maintained by:** Shivendra Singh
 📅 **Last Updated:** March 2025
