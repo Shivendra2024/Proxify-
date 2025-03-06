@@ -49,6 +49,7 @@ The testing process follows **Agile Methodology** to ensure continuous and itera
 
 ### 4. Mind Map
 - Visual representation of test strategy & module relationships.
+  Click Here- https://miro.com/app/board/uXjVLmm2-Zw=/?share_link_id=434460600575
 
 ### 5. Test Summary Report
 - Summary of test execution
