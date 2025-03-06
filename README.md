@@ -56,14 +56,6 @@ The testing process follows **Agile Methodology** to ensure continuous and itera
 - Coverage metrics
 - Key findings
 
-## Defect Summary
-| Defect ID |	Description	                 | Severity |	Status
-| TC_015	  | verify Forgot password	     |     High |	 Open
-| TC_016	  |Verify Login after Logout     |  	 High |  Open
-| TC_002	  |Validate signup functionality |     High |  Open
-             with already registered email	              
-
-
 ## Recommendations
 - Improve error handling mechanisms for payment processing.
 - Optimize UI elements for better responsiveness.
