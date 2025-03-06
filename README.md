@@ -64,6 +64,6 @@ The testing process follows **Agile Methodology** to ensure continuous and itera
 - Implement automated testing for regression scenarios.
 
 ---
-✅ **Maintained by:** Shivendra Singh
-📅 **Last Updated:** March 2025
+ **Maintained by:** Shivendra Singh
+ **Last Updated:** March 2025
 
