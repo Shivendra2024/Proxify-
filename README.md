@@ -38,7 +38,7 @@ The testing process follows **Agile Methodology** to ensure continuous and itera
 
 ### 2. Test Cases
 - Test Scenarios for each module
-- Test ID, Steps, Expected & Actual Results, Status
+- Test Scenario ID, Test Type, Test ID, Test Case Description, Test Steps, Expected & Actual Results, Status
 
 ### 3. Defect Report
 - Defect ID
