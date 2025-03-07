@@ -42,6 +42,7 @@ The testing process follows **Agile Methodology** to ensure continuous and itera
 
 ### 3. Defect Report
 - Defect ID
+- Description
 - Severity & Priority
 - Steps to reproduce
 - Screenshots
